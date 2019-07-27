@@ -39,17 +39,10 @@ if __name__ == "__main__":
     "User-Agent" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/74.0.3729.169 Chrome/74.0.3729.169 Safari/537.36"}
     print("dcinside IMG 크롤러입니다. dc에서 파싱할 게시글 URL을 입력해주세요")
    
-    html = urlopen("https://gall.dcinside.com/mgallery/board/lists/?id=fromis&sort_type=N&search_head=20&page=1")
-    bsObject = BeautifulSoup(html,'html.parser')
-    hrefs = []
-
-    for link in bsObject.find_all('a'):
-        hrefs.append(link.get('href'))
-
-    for url in hrefs:
-        name_list = []
-        r = requests.get(url, headers = headers)
-        debuging_request(r.text)
-        soup = BeautifulSoup(r.text, 'html.parser')
-        name(soup, name_list)
-        img_link(soup, name_list, url)
+    url = input()
+    name_list = []
+    r = requests.get(url, headers = headers)
+    debuging_request(r.text)
+    soup = BeautifulSoup(r.text, 'html.parser')
+    name(soup, name_list)
+    img_link(soup, name_list, url)
