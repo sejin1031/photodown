@@ -16,7 +16,7 @@ def img_link(soup, name_list, url):
         tmp_end_urlPoint = string_img_url.find("style=")
         string_img_url = string_img_url[tmp_start_urlPoint + 5:tmp_end_urlPoint-2]
         string_img_url = string_img_url.replace("amp;", "")
-        urllib.request.urlretrieve(string_img_url, "./dcinside/" + name_list[i])
+        urllib.request.urlretrieve(string_img_url, "./" + name_list[i])
 
 def name(soup, name_list):
     ul_class = soup.find("ul", class_="appending_file")
@@ -37,12 +37,30 @@ def debuging_request(r):
 if __name__ == "__main__":
     headers = {'Content-Type': 'application/json; charset=utf-8',
     "User-Agent" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/74.0.3729.169 Chrome/74.0.3729.169 Safari/537.36"}
-    print("dcinside IMG 크롤러입니다. dc에서 파싱할 게시글 URL을 입력해주세요")
-   
-    url = input()
-    name_list = []
-    r = requests.get(url, headers = headers)
-    debuging_request(r.text)
-    soup = BeautifulSoup(r.text, 'html.parser')
-    name(soup, name_list)
-    img_link(soup, name_list, url)
+    print("dc에서 파싱할 게시글 URL을 입력해주세요")
+
+
+    r = requests.get("https://gall.dcinside.com/mgallery/board/lists/?id=fromis&sort_type=N&search_head=20&page=1", headers = headers)
+    bsObject = BeautifulSoup(r.text, "html.parser")
+
+    links = []
+    links2 = []
+# link crawlling
+    for link in bsObject.find_all('td',{'class':'gall_tit ub-word'}):
+        for link2 in link.find_all('a'):
+            links.append(link2.get('href'))
+# filter http
+    for link in links:
+        if 'http' in link:
+            links2.append(link)
+            print(link)
+    cnt = 0
+    for link in links2:
+        if cnt <= 3:
+            cnt+=1
+            continue
+        name_list = []
+        ri = requests.get(link, headers = headers)
+        soup = BeautifulSoup(ri.text, 'html.parser')
+        name(soup, name_list)
+        img_link(soup, name_list, link)
