@@ -12,14 +12,12 @@ r = requests.get("https://gall.dcinside.com/mgallery/board/lists/?id=fromis&sort
 bsObject = BeautifulSoup(r.text, "html.parser")
 
 links = []
-links2 = []
+
 for link in bsObject.find_all('td',{'class':'gall_tit ub-word'}):
     for link2 in link.find_all('a'):
-        links.append(link2.get('href'))
+        link3 = link2.get('href')
+        if 'http' in link3:
+            links.append(link3)
 
 for link in links:
-    if 'http' in link:
-        links2.append(link)
-
-for link in links2:
-    
+    print(link)

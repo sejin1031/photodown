@@ -16,7 +16,7 @@ def img_link(soup, name_list, url):
         tmp_end_urlPoint = string_img_url.find("style=")
         string_img_url = string_img_url[tmp_start_urlPoint + 5:tmp_end_urlPoint-2]
         string_img_url = string_img_url.replace("amp;", "")
-        urllib.request.urlretrieve(string_img_url, "./" + name_list[i])
+        urllib.request.urlretrieve(string_img_url, "./dcinside" + name_list[i])
 
 def name(soup, name_list):
     ul_class = soup.find("ul", class_="appending_file")
@@ -35,8 +35,15 @@ def debuging_request(r):
     f.close()
 
 if __name__ == "__main__":
-    headers = {'Content-Type': 'application/json; charset=utf-8',
-    "User-Agent" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/74.0.3729.169 Chrome/74.0.3729.169 Safari/537.36"}
+    headers = {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Encoding': 'gzip, deflate',
+    'Accept-Language': 'ko-KR,ko;q=0.9,ja-JP;q=0.8,ja;q=0.7,en-US;q=0.6,en;q=0.5',
+    'Cache-Control': 'max-age=0',
+    'Connection': 'keep-alive',
+    'Host': 'gall.dcinside.com',
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36'
+    }
     print("dc에서 파싱할 게시글 URL을 입력해주세요")
 
 
@@ -44,21 +51,14 @@ if __name__ == "__main__":
     bsObject = BeautifulSoup(r.text, "html.parser")
 
     links = []
-    links2 = []
-# link crawlling
+
     for link in bsObject.find_all('td',{'class':'gall_tit ub-word'}):
         for link2 in link.find_all('a'):
-            links.append(link2.get('href'))
-# filter http
+            link3 = link2.get('href')
+            if 'http' in link3:
+                links.append(link3)
+                
     for link in links:
-        if 'http' in link:
-            links2.append(link)
-            print(link)
-    cnt = 0
-    for link in links2:
-        if cnt <= 3:
-            cnt+=1
-            continue
         name_list = []
         ri = requests.get(link, headers = headers)
         soup = BeautifulSoup(ri.text, 'html.parser')
