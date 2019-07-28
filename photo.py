@@ -20,13 +20,17 @@ def img_link(soup, name_list, url):
 
 def name(soup, name_list):
     ul_class = soup.find("ul", class_="appending_file")
-    a_tags = ul_class.find_all("a")
+    try: 
+        a_tags = ul_class.find_all("a")
+    except AttributeError :
+        print("error") 
     for i in range(0, len(a_tags), 1):
         string_name = str(a_tags[i])
         tmp_start_namePoint = string_name.find(">")
         tmp_end_namePoint = string_name.find("</a>")
         string_name = string_name[tmp_start_namePoint + 1 : tmp_end_namePoint]
         name_list.append(string_name)
+        print(string_name)
     name_list.sort()
 
 def debuging_request(r):
@@ -44,7 +48,7 @@ if __name__ == "__main__":
     'Upgrade-Insecure-Requests': '1',
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36'
     }
-    print("이제는 약속해 소중히 간직해")
+    print("dc에서 파싱할 게시글 URL을 입력해주세요")
 
 
     r = requests.get("https://gall.dcinside.com/mgallery/board/lists/?id=fromis&sort_type=N&search_head=20&page=1", headers = headers)
@@ -58,10 +62,10 @@ if __name__ == "__main__":
             if 'http' in link3:
                 link3 = link3[0:67] + "page=1"
                 links.append(link3)
-                
-    for i in range(4,len(links)-3):
+
+    for i in range(5,len(links)):
         name_list = []
         ri = requests.get(links[i], headers = headers)
         soup = BeautifulSoup(ri.text, 'html.parser')
         name(soup, name_list)
-        img_link(soup, name_list, links[i])
+        img_link(soup, name_list, links[i]) 
