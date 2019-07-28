@@ -17,7 +17,9 @@ def img_link(soup, name_list, url):
         tmp_end_urlPoint = string_img_url.find("style=")
         string_img_url = string_img_url[tmp_start_urlPoint + 5:tmp_end_urlPoint-2]
         string_img_url = string_img_url.replace("amp;", "")
-        urllib.request.urlretrieve(string_img_url, "./dcinside/." + name_list[i])
+        if(name_list == []):
+            return
+        urllib.request.urlretrieve(string_img_url, "./dcinside/" + name_list[i])
 
 def name(soup, name_list):
     try: 
@@ -57,17 +59,20 @@ if __name__ == "__main__":
     bsObject = BeautifulSoup(r.text, "html.parser")
 
     links = []
-
+    i = 1
     for link in bsObject.find_all('td',{'class':'gall_tit ub-word'}):
         for link2 in link.find_all('a'):
             link3 = link2.get('href')
             if 'http' in link3 and int(link3[60:66]) != 559808 and int(link3[60:66]) != 510845 and int(link3[60:66]) != 431773 and int(link3[60:66]) != 431734    :
                 link3 = link3[0:67] + "page=1"
                 links.append(link3)
+                print(str(i),link3)
+                i += 1
 
-    for i in range(5,len(links)):
+    for i in range(0,len(links)):
         name_list = []
         ri = requests.get(links[i], headers = headers)
         soup = BeautifulSoup(ri.text, 'html.parser')
         name(soup, name_list)
         img_link(soup, name_list, links[i]) 
+        print(links[i])
