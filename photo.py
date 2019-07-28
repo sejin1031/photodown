@@ -19,19 +19,20 @@ def img_link(soup, name_list, url):
         urllib.request.urlretrieve(string_img_url, "./dcinside/." + name_list[i])
 
 def name(soup, name_list):
-    ul_class = soup.find("ul", class_="appending_file")
     try: 
+        ul_class = soup.find("ul", class_="appending_file")
         a_tags = ul_class.find_all("a")
+        for i in range(0, len(a_tags), 1):
+            string_name = str(a_tags[i])
+            tmp_start_namePoint = string_name.find(">")
+            tmp_end_namePoint = string_name.find("</a>")
+            string_name = string_name[tmp_start_namePoint + 1 : tmp_end_namePoint]
+            name_list.append(string_name)
+            print(string_name)
+        name_list.sort()
     except AttributeError :
         print("error") 
-    for i in range(0, len(a_tags), 1):
-        string_name = str(a_tags[i])
-        tmp_start_namePoint = string_name.find(">")
-        tmp_end_namePoint = string_name.find("</a>")
-        string_name = string_name[tmp_start_namePoint + 1 : tmp_end_namePoint]
-        name_list.append(string_name)
-        print(string_name)
-    name_list.sort()
+
 
 def debuging_request(r):
     f = open("debuger.txt", mode="wt", encoding="utf-8")
