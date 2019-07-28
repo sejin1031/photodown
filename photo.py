@@ -44,7 +44,7 @@ if __name__ == "__main__":
     'Upgrade-Insecure-Requests': '1',
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36'
     }
-    print("dc에서 파싱할 게시글 URL을 입력해주세요")
+    print("이제는 약속해 소중히 간직해")
 
 
     r = requests.get("https://gall.dcinside.com/mgallery/board/lists/?id=fromis&sort_type=N&search_head=20&page=1", headers = headers)
