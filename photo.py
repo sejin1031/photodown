@@ -3,6 +3,7 @@ import re
 import requests
 import urllib
 from urllib.request import urlopen
+import sys
 
 def img_link(soup, name_list, url):
     opener = urllib.request.build_opener()
@@ -52,7 +53,7 @@ if __name__ == "__main__":
     print("dc에서 파싱할 게시글 URL을 입력해주세요")
 
 
-    r = requests.get("https://gall.dcinside.com/mgallery/board/lists/?id=fromis&sort_type=N&search_head=20&page=1", headers = headers)
+    r = requests.get("https://gall.dcinside.com/mgallery/board/lists/?id=fromis&sort_type=N&search_head=20&page="+str(sys.argv[1]), headers = headers)
     bsObject = BeautifulSoup(r.text, "html.parser")
 
     links = []
@@ -60,7 +61,7 @@ if __name__ == "__main__":
     for link in bsObject.find_all('td',{'class':'gall_tit ub-word'}):
         for link2 in link.find_all('a'):
             link3 = link2.get('href')
-            if 'http' in link3:
+            if 'http' in link3 and int(link3[60:66]) != 559808 and int(link3[60:66]) != 510845 and int(link3[60:66]) != 431773 and int(link3[60:66]) != 431734    :
                 link3 = link3[0:67] + "page=1"
                 links.append(link3)
 
