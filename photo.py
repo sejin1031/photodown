@@ -16,7 +16,7 @@ def img_link(soup, name_list, url):
         tmp_end_urlPoint = string_img_url.find("style=")
         string_img_url = string_img_url[tmp_start_urlPoint + 5:tmp_end_urlPoint-2]
         string_img_url = string_img_url.replace("amp;", "")
-        urllib.request.urlretrieve(string_img_url, "./dcinside" + name_list[i])
+        urllib.request.urlretrieve(string_img_url, "./dcinside/." + name_list[i])
 
 def name(soup, name_list):
     ul_class = soup.find("ul", class_="appending_file")
@@ -56,11 +56,12 @@ if __name__ == "__main__":
         for link2 in link.find_all('a'):
             link3 = link2.get('href')
             if 'http' in link3:
+                link3 = link3[0:67] + "page=1"
                 links.append(link3)
                 
-    for link in links:
+    for i in range(4,len(links)-3):
         name_list = []
-        ri = requests.get(link, headers = headers)
+        ri = requests.get(links[i], headers = headers)
         soup = BeautifulSoup(ri.text, 'html.parser')
         name(soup, name_list)
-        img_link(soup, name_list, link)
+        img_link(soup, name_list, links[i])
