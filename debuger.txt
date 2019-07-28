@@ -6,18 +6,18 @@
 	<meta http-equiv="imagetoolbar" content="no">
 	<meta name="content-language" content="kr">
 	<meta name="google-site-verification" content="8_SyZg2Wg3LNnCmFXzETp7ld4yjZB8ny17m8QsYsLwk">
-	<meta name="author" content="코불쏘">
-	<meta name="title" content="움짤) 마리텔 하영이 김.구.라.님 방 후반전.gif - 프로미스나인 갤러리">
+	<meta name="author" content="흰구름">
+	<meta name="title" content="공트 뉴짤 - 프로미스나인 갤러리">
 	<meta name="description" content="국내 최대 커뮤니티 포털 디시인사이드. 힛갤러리, 유저이슈 등 인터넷 트렌드 총 집합">
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="움짤) 마리텔 하영이 김.구.라.님 방 후반전.gif - 프로미스나인 갤러리">
+	<meta property="og:title" content="공트 뉴짤 - 프로미스나인 갤러리">
 	<meta property="og:description" content="국내 최대 커뮤니티 포털 디시인사이드. 힛갤러리, 유저이슈 등 인터넷 트렌드 총 집합">
-	<meta property="og:image" content="https://write.dcinside.com/viewimage.php?id=fromis&no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38cedc8adec9e7e74a6baf3170c04d804e9">
-	<meta property="og:url" content="https://gall.dcinside.com/mgallery/board/view/?id=fromis&no=643482&search_head=20&page=1">
+	<meta property="og:image" content="https://write.dcinside.com/viewimage.php?id=fromis&no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b8217d2e1b0341befeca8fa69039685f493603cf6eb97887cf9562503531514d94d374dad2c75f62568b08f0ea946c">
+	<meta property="og:url" content="https://gall.dcinside.com/mgallery/board/view/?id=fromis&no=643156&t=cv&search_head=20&page=1">
 	<meta property="og:site_name" content="디시인사이드">
-	<meta property="og:updated_time" content="2019-07-27 22:09:58">
+	<meta property="og:updated_time" content="2019-07-27 16:47:21">
 	<meta property="og:locale" content="ko_KR">
-	<title>움짤) 마리텔 하영이 김.구.라.님 방 후반전.gif - 프로미스나인 갤러리</title>
+	<title>공트 뉴짤 - 프로미스나인 갤러리</title>
 	<link rel="shortcut icon" href="//nstatic.dcinside.com/dc/w/images/logo_icon.ico" />
 	<link rel="apple-touch-icon" href="//nstatic.dcinside.com/dc/m/img/dcinside_icon.png">
 	<link rel="apple-touch-icon-precomposed" href="//nstatic.dcinside.com/dc/m/img/dcinside_icon.png">
@@ -156,7 +156,7 @@
 		<li><a href="https://dcnewsj.joins.com/">뉴스</a></li>
 		<li><a href="https://mall.dcinside.com">만두몰</a></li>
 		<li><a href="https://event.dcinside.com">이벤트</a></li>
-		 <li><a class="btn_top_loginout" href="https://dcid.dcinside.com/join/login.php?s_url=https%3A%2F%2Fgall.dcinside.com%2Fmgallery%2Fboard%2Fview%2F%3Fid%3Dfromis%26no%3D643482%26search_head%3D20%26page%3D1&s_key=428">로그인</a></li>		
+		 <li><a class="btn_top_loginout" href="https://dcid.dcinside.com/join/login.php?s_url=https%3A%2F%2Fgall.dcinside.com%2Fmgallery%2Fboard%2Fview%2F%3Fid%3Dfromis%26no%3D643156%26t%3Dcv%26search_head%3D20%26page%3D1&s_key=449">로그인</a></li>		
 	  </ul>
 	</div>
   </div>
@@ -415,13 +415,13 @@
 		<div class="inner">
 		  <div class="set_cont" >
 			<label for="bword" class="cont_tit">차단 닉네임</label>
-			<input type="text" id="bword" title="차단 닉네임 입력" class="intxt" value="코불쏘">
+			<input type="text" id="bword" title="차단 닉네임 입력" class="intxt" value="흰구름">
 			<button type="button" class="btn_enroll" onclick="ub_save_conf_one('fromis','프로미스나인','nick',$('#bword').val())">등록</button>
 		  </div>
 		  
 		  		  <div class="set_cont">
 			<label for="bid" class="cont_tit">차단 ID</label>
-			<input type="text" id="bid" title="차단 ID 입력" class="intxt" value="winter8ain">
+			<input type="text" id="bid" title="차단 ID 입력" class="intxt" value="rnfrld1234">
 			<button type="button" class="btn_enroll" onclick="ub_save_conf_one('fromis','프로미스나인','id',$('#bid').val())">등록</button>
 		  </div>
 		  		  
@@ -461,7 +461,7 @@ lately_gall_init('fromis', '프로미스나인', '');
 		<!-- 본문 -->
 		<article>
 			<form name="frm">
-				<input type="hidden" id="view_url" name="view_url" value="https://gall.dcinside.com/mgallery/board?id=fromis&no=643482page=">
+				<input type="hidden" id="view_url" name="view_url" value="https://gall.dcinside.com/mgallery/board?id=fromis&no=643156page=">
 				<input type="hidden" id="current_type" name="current_type" value="view">
 				<input type="hidden" id="current_params" name="current_params" value="&search_head=20&page=1">
 				<input type="hidden" id="exception_mode" name="exception_mode" value="all">
@@ -471,7 +471,7 @@ lately_gall_init('fromis', '프로미스나인', '');
 				<input type="hidden" id="search_head" name="search_head" value="20">
 				<input type="hidden" id="id" name="gallery_id" value="fromis">
 				<input type="hidden" id="gallery_id" name="gallery_id" value="fromis">
-				<input type="hidden" id="no" name="gallery_no" value="643482">
+				<input type="hidden" id="no" name="gallery_no" value="643156">
 				<input type="hidden" id="s_type" name="s_type" value="">
 				<input type="hidden" id="s_keyword" name="s_keyword" value="">
 				<input type="hidden" id="e_s_n_o" name="e_s_n_o" value="3eabc219ebdd65fe3eef87e7">
@@ -479,7 +479,7 @@ lately_gall_init('fromis', '프로미스나인', '');
 				<input type="hidden" id="kakao_rel_use" value="N">
 				<input type="hidden" id="kakao_rel_txt" value="">
 				<input type="hidden" id="cmt_wr" name="cmt_wr" value="10" />
-				<input type="hidden" id="comment_view" name="comment_view" value="">
+				<input type="hidden" id="comment_view" name="comment_view" value="1">
 				<input type="hidden" id="is_login" name="is_login" value="N" />
 			</form>
 			<h2 class="blind">갤러리 본문 영역</h2>
@@ -487,14 +487,14 @@ lately_gall_init('fromis', '프로미스나인', '');
 				<header>
 					<div class="gallview_head clear ub-content">
 						<!-- 모바일에서 작성 icon_write_mbl -->
-						<h3 class="title ub-word"><span class="title_headtext">[자료]</span> <span class="title_subject">움짤) 마리텔 하영이 김.구.라.님 방 후반전.gif</span><span class="title_device"></span></h3>
-						<div class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view">
+						<h3 class="title ub-word"><span class="title_headtext">[자료]</span> <span class="title_subject">공트 뉴짤</span><span class="title_device"><span><em class="blind">앱에서 작성</em><em class="sp_img icon_write_app"></em></span></span></h3>
+						<div class="gall_writer ub-writer" data-nick="흰구름" data-uid="rnfrld1234" data-ip="" data-loc="view">
 							<div class="fl">
-								<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>								<span class="gall_date" title="2019-07-27 22:09:58">2019.07.27 22:09:58</span>
+								<span class='nickname in' title='흰구름' ><em>흰구름</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='rnfrld12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/rnfrld1234');" alt='갤로그로 이동합니다.'></a>								<span class="gall_date" title="2019-07-27 16:47:21">2019.07.27 16:47:21</span>
 							</div>
 							<div class="fr">
-								<span class="gall_count">조회 310</span>
-								<span class="gall_reply_num">추천 20</span>
+								<span class="gall_count">조회 517</span>
+								<span class="gall_reply_num">추천 33</span>
 								<span class="gall_comment">댓글 4</span>
 							</div>
 						</div>
@@ -503,39 +503,18 @@ lately_gall_init('fromis', '프로미스나인', '');
 				<div class="gallview_contents">
 					<div class="inner clear">
 						<div class="writing_view_box">
-							<div id="zzbang_div" style="display:none" ></div><pre></pre>							<div style="overflow:hidden;">
-							<p><br></p><p style="text-align: left;"><img src="https://dcimg6.dcinside.co.kr/viewimage.php?id=2bafdf2becc1&no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38cedc8adec9e7e74a6baf3170c04" class="txc-image" style="clear:none;float:none;"></p><p><br></p><p style="text-align: left;"><img src="https://dcimg6.dcinside.co.kr/viewimage.php?id=2bafdf2becc1&no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38cedcdaceecf2074a1e7f3170c04" class="txc-image" style="clear:none;float:none;"></p><p><br></p><p style="text-align: left;"><img src="https://dcimg6.dcinside.co.kr/viewimage.php?id=2bafdf2becc1&no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38ced9fa2b8ca2a74a1e8f3170c04" class="txc-image" style="clear:none;float:none;"></p><p><br></p><p style="text-align: left;"><img src="https://dcimg6.dcinside.co.kr/viewimage.php?id=2bafdf2becc1&no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38ced9aa2ee9e7c75faeff3170c04" class="txc-image" style="clear:none;float:none;"></p><p><br></p><p style="text-align: left;"><img src="https://dcimg6.dcinside.co.kr/viewimage.php?id=2bafdf2becc1&no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38cedceace9ce7b7cf7e8f3170c04" class="txc-image" style="clear:none;float:none;"></p><p><br></p><p style="text-align: left;"><img src="https://dcimg6.dcinside.co.kr/viewimage.php?id=2bafdf2becc1&no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38ced99a6e19c7a7cf4bdf3170c04" class="txc-image" style="clear:none;float:none;"></p><p><br></p><p style="text-align: left;"><img src="https://dcimg6.dcinside.co.kr/viewimage.php?id=2bafdf2becc1&no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38cedc8a4bd99297ea6baf3170c04" class="txc-image" style="clear:none;float:none;"></p><p><br></p>								</div>
+							<img src=https://dcimg6.dcinside.co.kr/viewimage.php?id=2bafdf2becc1&no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b8217d2e1b0341befeca8fa69039685f493603cf6eb97887cf9562503531514d94d374dad2c75f62568b08f0ea946c width="50"><br>							<div style="overflow:hidden;">
+															</div>
 						</div>
 						<!--  본문 우측 광고 -->
-						<div class="con_banner writing_banbox" style="position:relative;min-width:160px; min-height:600px;">
-	<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
-<script>
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-</script>
-
-<script>
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/76378310/body_right_160600', [160, 600], 'div-gpt-ad-1524708955258-0').addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
-    googletag.enableServices();
-  });
-</script>
-
-<!-- /76378310/body_right_160600 -->
-<div id='div-gpt-ad-1524708955258-0' style='height:600px; width:160px;'>
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1524708955258-0'); });
-</script>
-</div>
-</div>						<!--  //본문 우측 광고 -->
+												<!--  //본문 우측 광고 -->
 					</div>
 					<!-- 추천검색-->
-					<div id="sch_alliance_box_643482" class="sch_alliance_box clear" style="display: none">
+					<div id="sch_alliance_box_643156" class="sch_alliance_box clear" style="display: none">
 						<div class="fl">
 							<span class="sch_alliance">추천검색</span>
 						</div>
-						<div id="sch_logbox_643482" class="fl sch_logbox"></div>
+						<div id="sch_logbox_643156" class="fl sch_logbox"></div>
 					</div>
 					<!-- //추천검색-->
 					<!-- //추천캡차-->
@@ -544,26 +523,26 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1524708955258-0');
 						<h3 class="blind">추천 비추천</h3>
 						<div class="inner fl">
 							<div class="up_num_box">
-								<p class="up_num font_red" id="recommend_view_up_643482">20</p>
+								<p class="up_num font_red" id="recommend_view_up_643156">33</p>
 								<p class="sup_num">
 									<spen class="writer_nikcon">
                 						<img src="//nstatic.dcinside.com/dc/w/images/fix_nik.gif" alt="고정닉">
             						</spen>
-									<span class="font_blue smallnum" id="recommend_view_up_fix_643482">13</span>
+									<span class="font_blue smallnum" id="recommend_view_up_fix_643156">23</span>
 								</p>
 							</div>
-							<button type="button" class="btn_recom_up on" data-no="643482"><span class="blind">개념 추천</span><em class="sp_img icon_recom_up"></em></button>
+							<button type="button" class="btn_recom_up on" data-no="643156"><span class="blind">개념 추천</span><em class="sp_img icon_recom_up"></em></button>
 						</div>
 						<div class="inner fr">
-							<button type="button" class="btn_recom_down" data-no="643482"><span class="blind">개념 비추천</span><em class="sp_img icon_recom_down"></em></button>
+							<button type="button" class="btn_recom_down" data-no="643156"><span class="blind">개념 비추천</span><em class="sp_img icon_recom_down"></em></button>
 							<div class="down_num_box">
-								<p class="down_num" id="recommend_view_down_643482">0</p>
+								<p class="down_num" id="recommend_view_down_643156">0</p>
 							</div>
 						</div>
 						<div class="recom_bottom_box clear">
-							<button type="button" class="btn_hitgall" data-no="643482"><em class="sp_img icon_hitgall"></em>힛추</button>
-							<button type="button" class="btn_snsmore" data-no="643482"><em class="sp_img icon_snsmore"></em>공유</button>
-							<button type="button" class="btn_report" data-no="643482"><em class="sp_img icon_report"></em>신고</button>
+							<button type="button" class="btn_hitgall" data-no="643156"><em class="sp_img icon_hitgall"></em>힛추</button>
+							<button type="button" class="btn_snsmore" data-no="643156"><em class="sp_img icon_snsmore"></em>공유</button>
+							<button type="button" class="btn_report" data-no="643156"><em class="sp_img icon_report"></em>신고</button>
 						</div>
 					</div>
 					<!-- //추천 비추천 -->
@@ -599,8 +578,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1533028048183-0');
 </div></div>					<!-- //본문 하단 광고 -->
 										<!-- 원본 첨부 파일 -->
 					<div class="appending_file_box">
-						<strong>원본 첨부파일 <em class="font_red">7</em></strong><a href="javascript:;" class="btn_file_dw" onclick="saveContentImgs()">본문 이미지 다운로드</a><img src="https://nstatic.dcinside.com/dc/w/images/loading_btntype.gif" alt="" class="loading_btntype" style="position:relative; top:3px; left: 10px; display:none;">						<ul class="appending_file">
-							<li><a href="https://image.dcinside.com/download.php?no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38cedc8adec9e7e74a6baf3170c04&f_no=05b2de23fcd139ab2eed86e44f9c746a3d34133117ef40032052bee439f83852">Honeycam 2019-07-27 21-47-55.gif</a></li><li><a href="https://image.dcinside.com/download.php?no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38cedcdaceecf2074a1e7f3170c04&f_no=05b2de23fcd139ab2eed86e44f9c746a3d34133117ef40022752b8e539f83852">Honeycam 2019-07-27 21-50-34.gif</a></li><li><a href="https://image.dcinside.com/download.php?no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38ced9fa2b8ca2a74a1e8f3170c04&f_no=05b2de23fcd139ab2eed86e44f9c746a3d34133117ef40022252bfe439f83852">Honeycam 2019-07-27 21-55-45.gif</a></li><li><a href="https://image.dcinside.com/download.php?no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38ced9aa2ee9e7c75faeff3170c04&f_no=05b2de23fcd139ab2eed86e44f9c746a3d34133117ef40022f52b9e339f83852">Honeycam 2019-07-27 21-58-22.gif</a></li><li><a href="https://image.dcinside.com/download.php?no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38cedceace9ce7b7cf7e8f3170c04&f_no=05b2de23fcd139ab2eed86e44f9c746a3d34133117ec40072752bfe139f83852">Honeycam 2019-07-27 22-00-40.gif</a></li><li><a href="https://image.dcinside.com/download.php?no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38ced99a6e19c7a7cf4bdf3170c04&f_no=05b2de23fcd139ab2eed86e44f9c746a3d34133117ec40072052b9e039f83852">Honeycam 2019-07-27 22-07-21.gif</a></li><li><a href="https://image.dcinside.com/download.php?no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b820732f180a47beffc38cedc8a4bd99297ea6baf3170c04&f_no=05b2de23fcd139ab2eed86e44f9c746a3d34133117ec40072e52b8e839f83852">Honeycam 2019-07-27 22-09-39.gif</a></li>						</ul>
+						<strong>원본 첨부파일 <em class="font_red">3</em></strong><a href="javascript:;" class="btn_file_dw" onclick="saveContentImgs()">본문 이미지 다운로드</a><img src="https://nstatic.dcinside.com/dc/w/images/loading_btntype.gif" alt="" class="loading_btntype" style="position:relative; top:3px; left: 10px; display:none;">						<ul class="appending_file">
+							<li><a href="https://image.dcinside.com/download.php?no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b8217d2e1b0341befeca8fa69039685f493603cf6eb97887cf9562503531514d94d374dad2c75f62568b08f0&f_no=0490f719b78269ff3ee884e229807269be4cdbc9ba3d7a">IMG_20190727_164707.jpg</a></li><li><a href="https://image.dcinside.com/download.php?no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b8217d2e1b0341befeca8fa6943d695f4e6c50ce6eb97887cf956269c316c10a29c0d1d860acef0bbfca8a2e&f_no=0490f719b78269ff3ee884e229807269be4cd4c9ba3d7a">IMG_20190727_164708.jpg</a></li><li><a href="https://image.dcinside.com/download.php?no=24b0d769e1d32ca73fed86fa11d0283193a07a4d5f003bc499f111af7d99fed2aa2353bfa7b8217d2e1b0341befeca8fa6913e3b5b486002c56ec205f1a99765d9a4e72658fffdd5c47754b7e4&f_no=7fed817fb5856af151ee80e141857273e66d78">20190727_164746.jpg</a></li>						</ul>
 					</div>
 					<!-- //원본 첨부 파일 -->
 									</div>
@@ -610,18 +589,18 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1533028048183-0');
 			<div id="jquery_jplayer"></div>
 <div class="view_comment">
 	<h2 class="blind">댓글 영역</h2>
-	<div id="comment_wrap_643482" class="comment_wrap" data-article-lv="9" data-sort-type='I'>
+	<div id="comment_wrap_643156" class="comment_wrap" data-article-lv="9" data-sort-type='I'>
 		<div class="comment_count">
 			<div class="fl num_box">
-				전체 리플 <em class="font_red"><span id="comment_total_643482">0</span></em>개
+				전체 리플 <em class="font_red"><span id="comment_total_643156">0</span></em>개
 				<div class="select_box array_latest">
 					<select name="selCommentSort">
 						<option value="D">등록순</option>
 						<option value="N">최신순</option>
 						<option value="R">답글수</option>
 					</select>
-					<div class="select_area" onClick="showLayer(this, 'commentSortLayer_643482');return false;"><span class="comment_sort_txt">등록순</span><span class="blind">정렬 기준선택</span><em class="sp_img icon_option_more"></em></div>
-					<ul class="option_box" id="commentSortLayer_643482" data-no="643482" style="left:-1px;top:19px;display:none">
+					<div class="select_area" onClick="showLayer(this, 'commentSortLayer_643156');return false;"><span class="comment_sort_txt">등록순</span><span class="blind">정렬 기준선택</span><em class="sp_img icon_option_more"></em></div>
+					<ul class="option_box" id="commentSortLayer_643156" data-no="643156" style="left:-1px;top:19px;display:none">
 						<!--<li class="comment_sort" data-sort="I">등록순</li>-->
 						<li class="comment_sort" data-sort="D">등록순</li>
 						<li class="comment_sort" data-sort="N">최신순</li>
@@ -631,8 +610,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1533028048183-0');
 				<button type="button" class="btn_setreply" style="display: none"><span class="blind">답글 펼침 설정</span><em class="sp_img icon_setreply"></em></button>
 			</div>
 			<div class="fr">
-				<button type="button" class="btn_cmt_close" data-no="643482" data-loc="TOP"><span>댓글닫기</span><em class="sp_img icon_cmt_more"></em></button>
-				<button type="button" class="btn_cmt_refresh" data-no="643482" data-sort="">새로고침</button>
+				<button type="button" class="btn_cmt_close" data-no="643156" data-loc="TOP"><span>댓글닫기</span><em class="sp_img icon_cmt_more"></em></button>
+				<button type="button" class="btn_cmt_refresh" data-no="643156" data-sort="">새로고침</button>
 			</div>
 		</div>
 	</div>
@@ -644,26 +623,26 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1533028048183-0');
 
 <input type="hidden" name="clickbutton" id="clickbutton" value="N" />
 
-<input type='hidden' name='check_6' id='check_6' value='a14630aa221671e6e5783e3ed01da9d83afa0a7e0a4ba08a3e3e35579843b5bba44ced9737da4e13ac7652a9227d817225d8da93beae5796ab3832cb1b' />
-<input type='hidden' name='check_7' id='check_7' value='7eea8073b1816d' />
-<input type='hidden' name='check_8' id='check_8' value='a16024ad333ab44996' />
-<input type='hidden' name='check_9' id='check_9' value='7cea8568b7836ce83fea84fb4f89' />
+<input type='hidden' name='check_6' id='check_6' value='a76e05ab0f0a782d876b5a72d2' />
+<input type='hidden' name='check_7' id='check_7' value='7ee98073bc866c' />
+<input type='hidden' name='check_8' id='check_8' value='a04000ac301eb3608a' />
+<input type='hidden' name='check_9' id='check_9' value='7fef8368b68b76f738ee98e44f88' />
 
-<input type="hidden" id="cur_t" name="cur_t" value="1564242445">
+<input type="hidden" id="cur_t" name="cur_t" value="1564285872">
 <input type="hidden" id="user_ip" name="user_ip" value="1.241.61.143">
 <input type="hidden" name="ehqo_C" id="ehqo_C" value="spam_key"/>
 <input type="hidden" name="spam_key" id="spam_key" value="rhkdrhgkwlak!!"/>
-<input type="hidden" name="ee959b100b2f7a514e8c66d7d5627037d00d777e91034450d42a0a80b111a09fe49b595663628afafc36e52af3" id="ee959b100b2f7a514e8c66d7d5627037d00d777e91034450d42a0a80b111a09fe49b595663628afafc36e52af3" value="b9d2c249506834194c8d299fdc7e3e7fd19db9cd27e68261e5c634f8d335773a1ef96386f1584b0f95f9b4cf97"/>
-<input type='hidden' name="service_code" value="21ac6d96ad152e8f15a05b7350a2475909d19bcedeba9d4face8115e9bc2f94e9e3d7272db184c744ac91c8e2d7a5485d1e9ee784e341f74025ee5e0ac0e5663834ed9b4fecec8484bd427300572959a15161f5f29742c558d5cb94747172cfe76d1cc6ab47e987e3ae808226f62b96d5e34d613d86906fdb6aee58cc3b9b0393cabddbe9ad17b271b9362910ee02dbfa368b701463a81cc1aeeb5504f4b24ecd13a0ed8916f4775dbe21d537a3f2094eff6f0f82b2e339b1ddd09d3f351a0d708112c66c4"/>
+<input type="hidden" name="ee959b100b2f7a514e8c66d2d8667037b844c775364f3282610e7d26d0d9cde1e80b5e2812f11af1ec3c2e3bee" id="ee959b100b2f7a514e8c66d2d8667037b844c775364f3282610e7d26d0d9cde1e80b5e2812f11af1ec3c2e3bee" value="b9d2c249506433154f8a299fdc7e3e7f41694c70e762cb0401cf750120a5404b49b2f0c884dcb3786b8b33a4ba"/>
+<input type='hidden' name="service_code" value="21ac6d96ad152e8f15a05b7350a2475909d19bcedeba9d4face8115e9bc2f94e9e31757ed81e4c744ac91c8e2d7a54854b24472640f7c3a9d9ccebc5d6a51abc588b6b4febd9c4ef42c8d29c217c280f00bb2d70b2c107b2823f32ac8b9256773331b6fec12ebf117dbadf1d5513ce9a63c7ddbcb671f54461f447d1a6b5b9ba05317e3bd712a04a833528d58e45035a5c99ae36da1d067246dfcf011253565768fe758adda29cf9259989b7e2b847ca597ebe8d806fc42684a3a35c27fa9b926ccf44aa09"/>
 <div class="cmt_write_box clear">
 	<div class="fl">
 				<div class="user_info_input">
 			<label for="user_nick" class="blind">닉네임</label>
-			<input type="text" id="name_643482" name = "name" placeholder="닉네임" onfocus="this.style.background='#FFFFFF'" maxlength="20" value="">
+			<input type="text" id="name_643156" name = "name" placeholder="닉네임" onfocus="this.style.background='#FFFFFF'" maxlength="20" value="">
 		</div>
 		<div class="user_info_input">
 			<label for="user_pw" class="blind">비밀번호</label>
-			<input type="password" id="password_643482" name = "password" placeholder="비밀번호" onfocus="this.style.background='#FFFFFF'" maxlength = "20">
+			<input type="password" id="password_643156" name = "password" placeholder="비밀번호" onfocus="this.style.background='#FFFFFF'" maxlength = "20">
 		</div>
 					</div>
 	<div class="cmt_txt_cont">
@@ -672,18 +651,18 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1533028048183-0');
 			타인의 권리를 침해하거나 명예를 훼손하는 댓글은 운영원칙 및 관련 법률에 제재를 받을 수 있습니다.<br>
 			Shift+Enter 키를 동시에 누르면 줄바꿈이 됩니다.
 			</label>
-			<textarea id="memo_643482" onfocus="$('.cmt_textarea_label').hide();" maxlength="400" onKeyup="javascript:reply_length_count(643482);"></textarea>
+			<textarea id="memo_643156" onfocus="$('.cmt_textarea_label').hide();" maxlength="400" onKeyup="javascript:reply_length_count(643156);"></textarea>
 		</div>
 		<div class="cmt_cont_bottm clear">
 			 <div class="dccon_guidebox">
-				<button type="button" class="btn_white small tx_dccon" data-no = '643482'><em class="sp_img icon_dccon"></em>디시콘</button>
+				<button type="button" class="btn_white small tx_dccon" data-no = '643156'><em class="sp_img icon_dccon"></em>디시콘</button>
 				<button type="button" class="btn_dccon_guide">
 				<span class="blind">디시콘이란</span><em class="sp_img icon_guide_open"></em>
 				</button>
 			</div>
 			<div class="fr">
-				<button type="button" class="btn_blue btn_svc small repley_add" data-no = "643482">등록</button>
-				<button type="button" class="btn_lightblue btn_svc small repley_add_vote" data-no = "643482">등록+추천</button>
+				<button type="button" class="btn_blue btn_svc small repley_add" data-no = "643156">등록</button>
+				<button type="button" class="btn_lightblue btn_svc small repley_add_vote" data-no = "643156">등록+추천</button>
 			</div>
 		</div>
 	</div>
@@ -836,12 +815,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1533028048183-0');
 </div>
 </script>
 <script type="text/javascript">
-var _r = _d('dFnHPMQEdTw5PM0vR/u4Q+ytQ+y5PMQ5Qow5PM=GRTuEdMQtQ+y6PMnw');
+var _r = _d('RM05PMU5QouvRgntQ+UEP+UtQ+=FPM=wR/u4RgntQ+UuP+UtQgy5PMq5P+UK');
 $(document).data('t_vch2', '');
 $(document).data('gallery_id', 'fromis');
-$(document).data('article_no', '643482');
+$(document).data('article_no', '643156');
 $(document).data('comment_id', 'fromis');
-$(document).data('comment_no', '643482');
+$(document).data('comment_no', '643156');
 viewComments(1, 'VIEW_PAGE');
 </script>			
 			<!-- 개념글, 수정, 삭제, 글쓰기 버튼 영역-->
@@ -904,7 +883,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="픎갤매니저" data-uid="officialfromis" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='픎갤매니저' ><em>픎갤매니저</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_managernik.gif' border=0 title='officialfrom** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/officialfromis');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-05-23 21:29:02">19.05.23</td>
-										<td class="gall_count">4710</td>
+										<td class="gall_count">4759</td>
 										<td class="gall_recommend">22</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -916,7 +895,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="픎갤매니저" data-uid="officialfromis" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='픎갤매니저' ><em>픎갤매니저</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_managernik.gif' border=0 title='officialfrom** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/officialfromis');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-03-25 12:46:11">19.03.25</td>
-										<td class="gall_count">7436</td>
+										<td class="gall_count">7443</td>
 										<td class="gall_recommend">48</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -928,7 +907,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="픎갤매니저" data-uid="whdidgma96" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='픎갤매니저' ><em>픎갤매니저</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='whdidgma** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/whdidgma96');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-01-19 03:28:25">19.01.19</td>
-										<td class="gall_count">2645</td>
+										<td class="gall_count">2651</td>
 										<td class="gall_recommend">28</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -940,8 +919,44 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="픎갤매니저" data-uid="whdidgma96" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='픎갤매니저' ><em>픎갤매니저</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='whdidgma** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/whdidgma96');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-01-19 03:14:29">19.01.19</td>
-										<td class="gall_count">3471</td>
+										<td class="gall_count">3479</td>
 										<td class="gall_recommend">162</td>
+									</tr>
+																		<tr class="ub-content ">
+										<td class="gall_num">643994</td>
+																														<td class="gall_subject">자료</td>
+																														<td class="gall_tit ub-word">
+																						<a href="/mgallery/board/view/?id=fromis&no=643994&search_head=20&page=1"><em class="icon_img icon_recomimg"></em>190630 목동 사운드웨이브 팬사인회 백지헌 3p</a>
+																						<a class="reply_numbox" href="https://gall.dcinside.com/mgallery/board/view/?id=fromis&no=643994&t=cv"><span class="reply_num">[2]</span></a>										</td>
+										<td class="gall_writer ub-writer" data-nick="아리수아" data-uid="arisua2710" data-ip="" data-loc="view_list">
+											<span class='nickname in' title='아리수아' ><em>아리수아</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='arisua27** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/arisua2710');" alt='갤로그로 이동합니다.'></a>										</td>
+										<td class="gall_date" title="2019-07-28 12:26:37">12:26</td>
+										<td class="gall_count">53</td>
+										<td class="gall_recommend">11</td>
+									</tr>
+																		<tr class="ub-content ">
+										<td class="gall_num">643991</td>
+																														<td class="gall_subject">자료</td>
+																														<td class="gall_tit ub-word">
+																						<a href="/mgallery/board/view/?id=fromis&no=643991&search_head=20&page=1"><em class="icon_img icon_recomimg"></em>움짤) 190727 음악중심 러브럼펌펌 2.gif</a>
+																						<a class="reply_numbox" href="https://gall.dcinside.com/mgallery/board/view/?id=fromis&no=643991&t=cv"><span class="reply_num">[5]</span></a>										</td>
+										<td class="gall_writer ub-writer" data-nick="셔니져니" data-uid="izpro" data-ip="" data-loc="view_list">
+											<span class='nickname in' title='셔니져니' ><em>셔니져니</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='izp** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/izpro');" alt='갤로그로 이동합니다.'></a>										</td>
+										<td class="gall_date" title="2019-07-28 12:15:10">12:15</td>
+										<td class="gall_count">70</td>
+										<td class="gall_recommend">12</td>
+									</tr>
+																		<tr class="ub-content ">
+										<td class="gall_num">643990</td>
+																														<td class="gall_subject">자료</td>
+																														<td class="gall_tit ub-word">
+																						<a href="/mgallery/board/view/?id=fromis&no=643990&search_head=20&page=1"><em class="icon_img icon_recomimg"></em>움짤) 190727 음악중심 러브럼펌펌 1.gif</a>
+																						<a class="reply_numbox" href="https://gall.dcinside.com/mgallery/board/view/?id=fromis&no=643990&t=cv"><span class="reply_num">[6]</span></a>										</td>
+										<td class="gall_writer ub-writer" data-nick="셔니져니" data-uid="izpro" data-ip="" data-loc="view_list">
+											<span class='nickname in' title='셔니져니' ><em>셔니져니</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='izp** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/izpro');" alt='갤로그로 이동합니다.'></a>										</td>
+										<td class="gall_date" title="2019-07-28 12:14:51">12:14</td>
+										<td class="gall_count">77</td>
+										<td class="gall_recommend">11</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">643544</td>
@@ -952,8 +967,8 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 22:39:42">07.27</td>
-										<td class="gall_count">419</td>
-										<td class="gall_recommend">23</td>
+										<td class="gall_count">688</td>
+										<td class="gall_recommend">29</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">643516</td>
@@ -964,20 +979,20 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 22:34:53">07.27</td>
-										<td class="gall_count">358</td>
-										<td class="gall_recommend">22</td>
+										<td class="gall_count">568</td>
+										<td class="gall_recommend">29</td>
 									</tr>
-																		<tr class="ub-content crt">
-										<td class="gall_num"><span class="sp_img crt_icon"> </span></td>
+																		<tr class="ub-content ">
+										<td class="gall_num">643482</td>
 																														<td class="gall_subject">자료</td>
 																														<td class="gall_tit ub-word">
 																						<a href="/mgallery/board/view/?id=fromis&no=643482&search_head=20&page=1"><em class="icon_img icon_recomimg"></em>움짤) 마리텔 하영이 김.구.라.님 방 후반전.gif</a>
-																						<a class="reply_numbox" href="https://gall.dcinside.com/mgallery/board/view/?id=fromis&no=643482&t=cv"><span class="reply_num">[4]</span></a>										</td>
+																						<a class="reply_numbox" href="https://gall.dcinside.com/mgallery/board/view/?id=fromis&no=643482&t=cv"><span class="reply_num">[5]</span></a>										</td>
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 22:09:58">07.27</td>
-										<td class="gall_count">310</td>
-										<td class="gall_recommend">20</td>
+										<td class="gall_count">454</td>
+										<td class="gall_recommend">25</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">643466</td>
@@ -988,8 +1003,8 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 21:58:45">07.27</td>
-										<td class="gall_count">335</td>
-										<td class="gall_recommend">22</td>
+										<td class="gall_count">509</td>
+										<td class="gall_recommend">25</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">643410</td>
@@ -1000,8 +1015,8 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 21:23:55">07.27</td>
-										<td class="gall_count">359</td>
-										<td class="gall_recommend">20</td>
+										<td class="gall_count">494</td>
+										<td class="gall_recommend">25</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">643389</td>
@@ -1012,8 +1027,8 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 20:54:34">07.27</td>
-										<td class="gall_count">325</td>
-										<td class="gall_recommend">18</td>
+										<td class="gall_count">380</td>
+										<td class="gall_recommend">19</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">643187</td>
@@ -1024,11 +1039,11 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="흰구름" data-uid="rnfrld1234" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='흰구름' ><em>흰구름</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='rnfrld12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/rnfrld1234');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 18:04:14">07.27</td>
-										<td class="gall_count">484</td>
+										<td class="gall_count">552</td>
 										<td class="gall_recommend">28</td>
 									</tr>
-																		<tr class="ub-content ">
-										<td class="gall_num">643156</td>
+																		<tr class="ub-content crt">
+										<td class="gall_num"><span class="sp_img crt_icon"> </span></td>
 																														<td class="gall_subject">자료</td>
 																														<td class="gall_tit ub-word">
 																						<a href="/mgallery/board/view/?id=fromis&no=643156&search_head=20&page=1"><em class="icon_img icon_recomimg"></em>공트 뉴짤</a>
@@ -1036,7 +1051,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="흰구름" data-uid="rnfrld1234" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='흰구름' ><em>흰구름</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='rnfrld12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/rnfrld1234');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 16:47:21">07.27</td>
-										<td class="gall_count">468</td>
+										<td class="gall_count">517</td>
 										<td class="gall_recommend">33</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1048,8 +1063,8 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="RosySun" data-uid="janght0122" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='RosySun' ><em>RosySun</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='janght01** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/janght0122');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 13:25:42">07.27</td>
-										<td class="gall_count">470</td>
-										<td class="gall_recommend">24</td>
+										<td class="gall_count">518</td>
+										<td class="gall_recommend">25</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">643042</td>
@@ -1060,8 +1075,8 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 12:34:48">07.27</td>
-										<td class="gall_count">590</td>
-										<td class="gall_recommend">32</td>
+										<td class="gall_count">643</td>
+										<td class="gall_recommend">33</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">643040</td>
@@ -1072,7 +1087,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 12:32:23">07.27</td>
-										<td class="gall_count">450</td>
+										<td class="gall_count">478</td>
 										<td class="gall_recommend">28</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1084,8 +1099,8 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="셔니져니" data-uid="izpro" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='셔니져니' ><em>셔니져니</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='izp** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/izpro');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 12:04:10">07.27</td>
-										<td class="gall_count">195</td>
-										<td class="gall_recommend">21</td>
+										<td class="gall_count">221</td>
+										<td class="gall_recommend">22</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">643034</td>
@@ -1096,8 +1111,8 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="셔니져니" data-uid="izpro" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='셔니져니' ><em>셔니져니</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='izp** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/izpro');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 12:03:48">07.27</td>
-										<td class="gall_count">212</td>
-										<td class="gall_recommend">22</td>
+										<td class="gall_count">236</td>
+										<td class="gall_recommend">24</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">642952</td>
@@ -1108,8 +1123,8 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="셔니져니" data-uid="izpro" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='셔니져니' ><em>셔니져니</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='izp** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/izpro');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-27 01:45:35">07.27</td>
-										<td class="gall_count">469</td>
-										<td class="gall_recommend">29</td>
+										<td class="gall_count">489</td>
+										<td class="gall_recommend">30</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">642869</td>
@@ -1120,7 +1135,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="셔니져니" data-uid="izpro" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='셔니져니' ><em>셔니져니</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='izp** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/izpro');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 23:52:23">07.26</td>
-										<td class="gall_count">287</td>
+										<td class="gall_count">295</td>
 										<td class="gall_recommend">23</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1132,7 +1147,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 23:46:23">07.26</td>
-										<td class="gall_count">664</td>
+										<td class="gall_count">691</td>
 										<td class="gall_recommend">32</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1144,7 +1159,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 23:41:17">07.26</td>
-										<td class="gall_count">529</td>
+										<td class="gall_count">545</td>
 										<td class="gall_recommend">25</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1156,7 +1171,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="크앙새롬" data-uid="wjddn7067" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='크앙새롬' ><em>크앙새롬</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='wjddn70** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/wjddn7067');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 23:16:19">07.26</td>
-										<td class="gall_count">435</td>
+										<td class="gall_count">452</td>
 										<td class="gall_recommend">29</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1168,7 +1183,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="귤만난고기" data-uid="hs96n222" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='귤만난고기' ><em>귤만난고기</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='hs96n2** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/hs96n222');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 21:58:34">07.26</td>
-										<td class="gall_count">168</td>
+										<td class="gall_count">174</td>
 										<td class="gall_recommend">21</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1180,7 +1195,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="귤만난고기" data-uid="hs96n222" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='귤만난고기' ><em>귤만난고기</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='hs96n2** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/hs96n222');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 21:58:33">07.26</td>
-										<td class="gall_count">181</td>
+										<td class="gall_count">197</td>
 										<td class="gall_recommend">20</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1192,7 +1207,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 21:20:03">07.26</td>
-										<td class="gall_count">233</td>
+										<td class="gall_count">241</td>
 										<td class="gall_recommend">24</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1204,7 +1219,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 19:44:13">07.26</td>
-										<td class="gall_count">339</td>
+										<td class="gall_count">349</td>
 										<td class="gall_recommend">19</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1216,7 +1231,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="크앙새롬" data-uid="wjddn7067" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='크앙새롬' ><em>크앙새롬</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='wjddn70** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/wjddn7067');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 18:40:40">07.26</td>
-										<td class="gall_count">562</td>
+										<td class="gall_count">572</td>
 										<td class="gall_recommend">37</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1228,7 +1243,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 18:30:43">07.26</td>
-										<td class="gall_count">500</td>
+										<td class="gall_count">514</td>
 										<td class="gall_recommend">24</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1240,7 +1255,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="픎나인뿐" data-uid="mocrevan0910" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='픎나인뿐' ><em>픎나인뿐</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='mocrevan09** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/mocrevan0910');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 18:30:23">07.26</td>
-										<td class="gall_count">405</td>
+										<td class="gall_count">410</td>
 										<td class="gall_recommend">30</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1252,7 +1267,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="코불쏘" data-uid="winter8ain" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='코불쏘' ><em>코불쏘</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='winter8a** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/winter8ain');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 18:19:28">07.26</td>
-										<td class="gall_count">456</td>
+										<td class="gall_count">471</td>
 										<td class="gall_recommend">22</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1264,7 +1279,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 17:16:14">07.26</td>
-										<td class="gall_count">384</td>
+										<td class="gall_count">393</td>
 										<td class="gall_recommend">24</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1276,7 +1291,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="갓지선" data-uid="merino" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='갓지선' ><em>갓지선</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='meri** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/merino');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 15:38:32">07.26</td>
-										<td class="gall_count">589</td>
+										<td class="gall_count">609</td>
 										<td class="gall_recommend">28</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1288,8 +1303,8 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="갓지선" data-uid="merino" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='갓지선' ><em>갓지선</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='meri** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/merino');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 15:37:44">07.26</td>
-										<td class="gall_count">544</td>
-										<td class="gall_recommend">35</td>
+										<td class="gall_count">553</td>
+										<td class="gall_recommend">36</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">642446</td>
@@ -1300,7 +1315,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 13:11:51">07.26</td>
-										<td class="gall_count">275</td>
+										<td class="gall_count">282</td>
 										<td class="gall_recommend">25</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1312,8 +1327,8 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="프로미스미" data-uid="fromis9yc" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='프로미스미' ><em>프로미스미</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='fromis9** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/fromis9yc');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 12:55:45">07.26</td>
-										<td class="gall_count">319</td>
-										<td class="gall_recommend">28</td>
+										<td class="gall_count">323</td>
+										<td class="gall_recommend">29</td>
 									</tr>
 																		<tr class="ub-content ">
 										<td class="gall_num">642420</td>
@@ -1324,7 +1339,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 11:36:24">07.26</td>
-										<td class="gall_count">344</td>
+										<td class="gall_count">350</td>
 										<td class="gall_recommend">20</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1336,7 +1351,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="셔니져니" data-uid="izpro" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='셔니져니' ><em>셔니져니</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='izp** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/izpro');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 11:21:32">07.26</td>
-										<td class="gall_count">206</td>
+										<td class="gall_count">209</td>
 										<td class="gall_recommend">20</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1348,7 +1363,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="셔니져니" data-uid="izpro" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='셔니져니' ><em>셔니져니</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='izp** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/izpro');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 11:21:09">07.26</td>
-										<td class="gall_count">262</td>
+										<td class="gall_count">263</td>
 										<td class="gall_recommend">20</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1360,7 +1375,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="셔니져니" data-uid="izpro" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='셔니져니' ><em>셔니져니</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='izp** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/izpro');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 11:20:50">07.26</td>
-										<td class="gall_count">307</td>
+										<td class="gall_count">318</td>
 										<td class="gall_recommend">25</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1372,7 +1387,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="꾸벅이" data-uid="theflowerway" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='꾸벅이' ><em>꾸벅이</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='theflowerw** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/theflowerway');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 01:13:09">07.26</td>
-										<td class="gall_count">522</td>
+										<td class="gall_count">529</td>
 										<td class="gall_recommend">27</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1384,7 +1399,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 00:49:44">07.26</td>
-										<td class="gall_count">276</td>
+										<td class="gall_count">283</td>
 										<td class="gall_recommend">22</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1396,7 +1411,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 00:49:10">07.26</td>
-										<td class="gall_count">257</td>
+										<td class="gall_count">262</td>
 										<td class="gall_recommend">24</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1408,7 +1423,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 00:16:35">07.26</td>
-										<td class="gall_count">210</td>
+										<td class="gall_count">221</td>
 										<td class="gall_recommend">18</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1420,7 +1435,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 00:15:52">07.26</td>
-										<td class="gall_count">240</td>
+										<td class="gall_count">259</td>
 										<td class="gall_recommend">20</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1432,7 +1447,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 00:07:48">07.26</td>
-										<td class="gall_count">146</td>
+										<td class="gall_count">149</td>
 										<td class="gall_recommend">15</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1444,7 +1459,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 00:05:29">07.26</td>
-										<td class="gall_count">176</td>
+										<td class="gall_count">181</td>
 										<td class="gall_recommend">19</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1456,7 +1471,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-26 00:01:20">07.26</td>
-										<td class="gall_count">180</td>
+										<td class="gall_count">187</td>
 										<td class="gall_recommend">23</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1468,7 +1483,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-25 23:59:51">07.25</td>
-										<td class="gall_count">217</td>
+										<td class="gall_count">223</td>
 										<td class="gall_recommend">19</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1480,7 +1495,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="픎나인뿐" data-uid="mocrevan0910" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='픎나인뿐' ><em>픎나인뿐</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='mocrevan09** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/mocrevan0910');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-25 22:24:25">07.25</td>
-										<td class="gall_count">472</td>
+										<td class="gall_count">478</td>
 										<td class="gall_recommend">33</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1492,7 +1507,7 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-25 21:28:12">07.25</td>
-										<td class="gall_count">181</td>
+										<td class="gall_count">185</td>
 										<td class="gall_recommend">20</td>
 									</tr>
 																		<tr class="ub-content ">
@@ -1504,44 +1519,8 @@ viewComments(1, 'VIEW_PAGE');
 										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
 											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
 										<td class="gall_date" title="2019-07-25 21:27:32">07.25</td>
-										<td class="gall_count">197</td>
+										<td class="gall_count">202</td>
 										<td class="gall_recommend">20</td>
-									</tr>
-																		<tr class="ub-content ">
-										<td class="gall_num">641574</td>
-																														<td class="gall_subject">자료</td>
-																														<td class="gall_tit ub-word">
-																						<a href="/mgallery/board/view/?id=fromis&no=641574&search_head=20&page=1"><em class="icon_img icon_recomimg"></em>빨.간맛 커버 gif. 2</a>
-																						<a class="reply_numbox" href="https://gall.dcinside.com/mgallery/board/view/?id=fromis&no=641574&t=cv"><span class="reply_num">[2]</span></a>										</td>
-										<td class="gall_writer ub-writer" data-nick="뤠고지뜨리" data-uid="qsxfy1357" data-ip="" data-loc="view_list">
-											<span class='nickname in' title='뤠고지뜨리' ><em>뤠고지뜨리</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='qsxfy13** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/qsxfy1357');" alt='갤로그로 이동합니다.'></a>										</td>
-										<td class="gall_date" title="2019-07-25 20:23:15">07.25</td>
-										<td class="gall_count">210</td>
-										<td class="gall_recommend">19</td>
-									</tr>
-																		<tr class="ub-content ">
-										<td class="gall_num">641570</td>
-																														<td class="gall_subject">자료</td>
-																														<td class="gall_tit ub-word">
-																						<a href="/mgallery/board/view/?id=fromis&no=641570&search_head=20&page=1"><em class="icon_img icon_recomimg"></em>빨.간맛 커버 gif. 1</a>
-																						<a class="reply_numbox" href="https://gall.dcinside.com/mgallery/board/view/?id=fromis&no=641570&t=cv"><span class="reply_num">[1]</span></a>										</td>
-										<td class="gall_writer ub-writer" data-nick="뤠고지뜨리" data-uid="qsxfy1357" data-ip="" data-loc="view_list">
-											<span class='nickname in' title='뤠고지뜨리' ><em>뤠고지뜨리</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/fix_nik.gif' border=0 title='qsxfy13** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/qsxfy1357');" alt='갤로그로 이동합니다.'></a>										</td>
-										<td class="gall_date" title="2019-07-25 20:22:48">07.25</td>
-										<td class="gall_count">230</td>
-										<td class="gall_recommend">16</td>
-									</tr>
-																		<tr class="ub-content ">
-										<td class="gall_num">641568</td>
-																														<td class="gall_subject">자료</td>
-																														<td class="gall_tit ub-word">
-																						<a href="/mgallery/board/view/?id=fromis&no=641568&search_head=20&page=1"><em class="icon_img icon_recomimg"></em>190721 합정 팬사인회 서연 고화질 by FROM9LATTE</a>
-																						<a class="reply_numbox" href="https://gall.dcinside.com/mgallery/board/view/?id=fromis&no=641568&t=cv"><span class="reply_num">[1]</span></a>										</td>
-										<td class="gall_writer ub-writer" data-nick="ㅇㅇ" data-uid="awert1233" data-ip="" data-loc="view_list">
-											<span class='nickname in' title='ㅇㅇ' ><em>ㅇㅇ</em></span><a class='writer_nikcon'><img src='https://nstatic.dcinside.com/dc/w/images/nik.gif' border=0 title='awert12** : 갤로그로 이동합니다.'  width='12'  height='11'  style='margin-left:2px;cursor:pointer;' onClick="window.open('//gallog.dcinside.com/awert1233');" alt='갤로그로 이동합니다.'></a>										</td>
-										<td class="gall_date" title="2019-07-25 20:21:19">07.25</td>
-										<td class="gall_count">147</td>
-										<td class="gall_recommend">19</td>
 									</tr>
 																	</tbody>
 							</table>
@@ -1616,7 +1595,7 @@ viewComments(1, 'VIEW_PAGE');
   <!-- 로그인 정보 -->
   <div id="login_box" class="login_box">
 	<div class="user_info" data-alarmId="">
-	  <strong onclick="location='https://dcid.dcinside.com/join/login.php?s_url=https%3A%2F%2Fgall.dcinside.com%2Fmgallery%2Fboard%2Fview%2F%3Fid%3Dfromis%26no%3D643482%26search_head%3D20%26page%3D1&s_key=428'" style="cursor:pointer">로그인을 해 주시기 바랍니다.</strong> 
+	  <strong onclick="location='https://dcid.dcinside.com/join/login.php?s_url=https%3A%2F%2Fgall.dcinside.com%2Fmgallery%2Fboard%2Fview%2F%3Fid%3Dfromis%26no%3D643156%26t%3Dcv%26search_head%3D20%26page%3D1&s_key=449'" style="cursor:pointer">로그인을 해 주시기 바랍니다.</strong> 
 	</div>
 	<div class="user_option">
 	  <span><a href="javascript:;" onclick="alert('로그인이 필요합니다.')">갤로그<em class="sp_loginout icon_visit"></em></a></span>

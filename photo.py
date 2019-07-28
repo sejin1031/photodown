@@ -56,6 +56,7 @@ if __name__ == "__main__":
         for link2 in link.find_all('a'):
             link3 = link2.get('href')
             if 'http' in link3:
+                link3 = link3[0:67] + "page=1"
                 links.append(link3)
                 
     for link in links:
